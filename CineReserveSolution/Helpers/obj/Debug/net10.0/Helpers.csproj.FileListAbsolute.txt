@@ -1,0 +1,15 @@
+C:\Users\Administrator\source\repos\CineReserveSolution\Helpers\bin\Debug\net10.0\Helpers.deps.json
+C:\Users\Administrator\source\repos\CineReserveSolution\Helpers\bin\Debug\net10.0\Helpers.dll
+C:\Users\Administrator\source\repos\CineReserveSolution\Helpers\bin\Debug\net10.0\Helpers.pdb
+C:\Users\Administrator\source\repos\CineReserveSolution\Helpers\bin\Debug\net10.0\Models.dll
+C:\Users\Administrator\source\repos\CineReserveSolution\Helpers\bin\Debug\net10.0\Models.pdb
+C:\Users\Administrator\source\repos\CineReserveSolution\Helpers\obj\Debug\net10.0\Helpers.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CineReserveSolution\Helpers\obj\Debug\net10.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\CineReserveSolution\Helpers\obj\Debug\net10.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CineReserveSolution\Helpers\obj\Debug\net10.0\Helpers.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CineReserveSolution\Helpers\obj\Debug\net10.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CineReserveSolution\Helpers\obj\Debug\net10.0\Helpers.csproj.Up2Date
+C:\Users\Administrator\source\repos\CineReserveSolution\Helpers\obj\Debug\net10.0\Helpers.dll
+C:\Users\Administrator\source\repos\CineReserveSolution\Helpers\obj\Debug\net10.0\refint\Helpers.dll
+C:\Users\Administrator\source\repos\CineReserveSolution\Helpers\obj\Debug\net10.0\Helpers.pdb
+C:\Users\Administrator\source\repos\CineReserveSolution\Helpers\obj\Debug\net10.0\ref\Helpers.dll

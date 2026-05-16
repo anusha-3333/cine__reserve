@@ -1,0 +1,12 @@
+C:\Users\Administrator\source\repos\CineReserveSolution\Middleware\bin\Debug\net10.0\Middleware.deps.json
+C:\Users\Administrator\source\repos\CineReserveSolution\Middleware\bin\Debug\net10.0\Middleware.dll
+C:\Users\Administrator\source\repos\CineReserveSolution\Middleware\bin\Debug\net10.0\Middleware.pdb
+C:\Users\Administrator\source\repos\CineReserveSolution\Middleware\obj\Debug\net10.0\Middleware.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\CineReserveSolution\Middleware\obj\Debug\net10.0\Middleware.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\CineReserveSolution\Middleware\obj\Debug\net10.0\Middleware.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CineReserveSolution\Middleware\obj\Debug\net10.0\Middleware.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CineReserveSolution\Middleware\obj\Debug\net10.0\Middleware.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CineReserveSolution\Middleware\obj\Debug\net10.0\Middleware.dll
+C:\Users\Administrator\source\repos\CineReserveSolution\Middleware\obj\Debug\net10.0\refint\Middleware.dll
+C:\Users\Administrator\source\repos\CineReserveSolution\Middleware\obj\Debug\net10.0\Middleware.pdb
+C:\Users\Administrator\source\repos\CineReserveSolution\Middleware\obj\Debug\net10.0\ref\Middleware.dll

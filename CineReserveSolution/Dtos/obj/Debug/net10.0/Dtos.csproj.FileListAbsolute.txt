@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\CineReserveSolution\Dtos\bin\Debug\net10.0\Dtos.deps.json
+C:\Users\Administrator\source\repos\CineReserveSolution\Dtos\bin\Debug\net10.0\Dtos.dll
+C:\Users\Administrator\source\repos\CineReserveSolution\Dtos\bin\Debug\net10.0\Dtos.pdb
+C:\Users\Administrator\source\repos\CineReserveSolution\Dtos\obj\Debug\net10.0\Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\CineReserveSolution\Dtos\obj\Debug\net10.0\Dtos.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CineReserveSolution\Dtos\obj\Debug\net10.0\Dtos.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CineReserveSolution\Dtos\obj\Debug\net10.0\Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CineReserveSolution\Dtos\obj\Debug\net10.0\Dtos.dll
+C:\Users\Administrator\source\repos\CineReserveSolution\Dtos\obj\Debug\net10.0\refint\Dtos.dll
+C:\Users\Administrator\source\repos\CineReserveSolution\Dtos\obj\Debug\net10.0\Dtos.pdb
+C:\Users\Administrator\source\repos\CineReserveSolution\Dtos\obj\Debug\net10.0\ref\Dtos.dll

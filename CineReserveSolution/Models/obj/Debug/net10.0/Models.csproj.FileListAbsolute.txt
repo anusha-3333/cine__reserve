@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\CineReserveSolution\Models\bin\Debug\net10.0\Models.deps.json
+C:\Users\Administrator\source\repos\CineReserveSolution\Models\bin\Debug\net10.0\Models.dll
+C:\Users\Administrator\source\repos\CineReserveSolution\Models\bin\Debug\net10.0\Models.pdb
+C:\Users\Administrator\source\repos\CineReserveSolution\Models\obj\Debug\net10.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\source\repos\CineReserveSolution\Models\obj\Debug\net10.0\Models.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\CineReserveSolution\Models\obj\Debug\net10.0\Models.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\CineReserveSolution\Models\obj\Debug\net10.0\Models.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\CineReserveSolution\Models\obj\Debug\net10.0\Models.dll
+C:\Users\Administrator\source\repos\CineReserveSolution\Models\obj\Debug\net10.0\refint\Models.dll
+C:\Users\Administrator\source\repos\CineReserveSolution\Models\obj\Debug\net10.0\Models.pdb
+C:\Users\Administrator\source\repos\CineReserveSolution\Models\obj\Debug\net10.0\ref\Models.dll
