@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    font-family: Arial;
+    background: #0f172a;
+    color: white;
+  }
+  
+  button {
+    cursor: pointer;
+  }
+  
+  /* SEATS */
+  .available { background: green; color: white; }
+  .selected { background: blue; color: white; }
+  .sold { background: gray; }
+  
+  /* MOVIES */
+  .movie-card {
+    background: #1e293b;
+    padding: 10px;
+    margin: 10px;
+  }
+  
+  /* CHECKOUT */
+  .checkout-box {
+    position: fixed;
+    right: 20px;
+    top: 100px;
+    background: #1e293b;
+    padding: 10px;
+  }

@@ -1,0 +1,20 @@
+<h2>Select Seats</h2>
+
+<div class="screen">SCREEN</div>
+
+<div class="seat-grid">
+  <div class="seat-row" *ngFor="let r of rows">
+    <button
+      class="seat"
+      *ngFor="let c of cols"
+      (click)="toggle(r,c)"
+      [ngClass]="getClass(r,c)">
+      {{r}}{{c}}
+    </button>
+  </div>
+</div>
+
+<div class="checkout-box">
+  <h3>Total: ₹{{total}}</h3>
+  <button (click)="goCheckout()">Proceed</button>
+</div>
